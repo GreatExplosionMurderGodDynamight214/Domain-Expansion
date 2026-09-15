@@ -11,7 +11,10 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ### 2 sept - Deep-dives
 
 Typografie:
-Als eerst hadden we een les Typografie. In deze les kregen we 2 fotos van Dolly parton te zien: <img width="922" height="713" alt="Schermafbeelding 2026-09-02 103744" src="https://github.com/user-attachments/assets/7e61a0d0-3b91-4724-94fe-f4bffea2e49b" />
+Als eerst hadden we een les Typografie. In deze les kregen we 2 fotos van Dolly parton te zien:
+<img width="575" height="647" alt="image" src="https://github.com/user-attachments/assets/816a068c-d2bb-4e65-ab27-cfedbc32ab31" />
+
+<img width="922" height="713" alt="Schermafbeelding 2026-09-02 103744" src="https://github.com/user-attachments/assets/7e61a0d0-3b91-4724-94fe-f4bffea2e49b" />
 
 
 ### 31 aug - Kickoff
