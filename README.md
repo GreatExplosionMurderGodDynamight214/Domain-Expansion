@@ -11,7 +11,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ### 2 sept - Deep-dives
 
 Typografie:
-Als eerst hadden we een les Typografie. In deze les kregen we 2 fotos van Dolly parton te zien:
+Als eerst hadden we een les Typografie van Diederik. In deze les kregen we 2 fotos van Dolly parton te zien:
 <img width="575" height="647" alt="image" src="https://github.com/user-attachments/assets/816a068c-d2bb-4e65-ab27-cfedbc32ab31" />
 
 We hadden 6 woorden geassocieerd met beide afbeeldingen:
@@ -23,6 +23,10 @@ We kozen 1 afbeelding, ik koos voor de linker afbeelding, en maakte van 3 van on
 Daar kozen we weer 3 woorden van, en gebaseerd op die 3 woorden kozen we een font die ons deed denken aan Dolly Parton. Dit is de door mij gekozen font:
 <img width="922" height="713" alt="Schermafbeelding 2026-09-02 103744" src="https://github.com/user-attachments/assets/7e61a0d0-3b91-4724-94fe-f4bffea2e49b" />
 
+Het belangrijkste wat ik van deze les heb geleerd is dat je niet bang moet zijn om gekke ideëen op papier te zetten, want soms zijn de gekste ideëen de leukste.
+
+Schetsen:
+Daarna hadden we een les schetsen van Charley. Tot mijn verbazing begonnen we met rechte lijnen te
 
 ### 31 aug - Kickoff
 
