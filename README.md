@@ -4,9 +4,13 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
-### [...]
 
-[...]
+
+### 4 sept - Deep-dives
+
+Praktische CSS:
+
+CSS: fonts met kleur en effecten
 
 ### 2 sept - Deep-dives
 
