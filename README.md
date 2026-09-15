@@ -26,7 +26,17 @@ Daar kozen we weer 3 woorden van, en gebaseerd op die 3 woorden kozen we een fon
 Het belangrijkste wat ik van deze les heb geleerd is dat je niet bang moet zijn om gekke ideëen op papier te zetten, want soms zijn de gekste ideëen de leukste.
 
 Schetsen:
-Daarna hadden we een les schetsen van Charley. Tot mijn verbazing begonnen we met rechte lijnen te
+Daarna hadden we een les schetsen van Charley. Tot mijn verbazing begonnen we met rechte lijnen te trekken over een A3 vel:
+<img width="600" height="800" alt="c05751c2-a9ae-4402-afb6-1880cf993f91" src="https://github.com/user-attachments/assets/56cf310a-1904-45eb-bf42-6381a4187103" />
+
+Zoals je ziet ging dat niet helemaal goed. Daarna hadden we vierkanten getekend op een papier:
+<img width="600" height="800" alt="ce212de4-10f1-4c25-ab09-a7b2de01b9a6" src="https://github.com/user-attachments/assets/a5d57756-030d-412c-9882-7474b8bf8f65" />
+
+Daarna hadden we een grid gemaakt en hadden we geprobeerd onze telefoon te schetsen zonder hem om te trekken:
+<img width="600" height="800" alt="794bee19-2351-4be7-abd2-90adcbb8f1aa" src="https://github.com/user-attachments/assets/a7829394-0834-4cdf-b045-9dadcd0bc5f1" />
+
+Dit was denk ik om te laten zien dat schetsen niet helemaal mooi en precies kunnen zijn. Wat een mooie overgang was naar de praktische kant van schetsen. We gingen een Mi-Fi wireframe van een website die al bestaat maken:
+<img width="600" height="800" alt="c0ce07f5-f29d-4f8a-a137-11bc20c478c6" src="https://github.com/user-attachments/assets/cd947987-8eb9-42c5-a210-687d30ff43cf" />
 
 ### 31 aug - Kickoff
 
