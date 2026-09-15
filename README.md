@@ -4,17 +4,45 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
-## Sprint 1 - Week 2
+### Sprint 1 - Week 2
 
-## Sprint 1 - Week 1
+### 18 sept - Werkgroep
 
-## Sprint 0 - Week 1
+### 16 sept - Werkgroep + Deep-dive
+
+Debuggen & Verrijken:
+
+### 15 sept - Deep-dive
+
+CSS: Resonsive grid + grid-areas:
+
+### 14 sept - Werkgroep
+
+### Sprint 1 - Week 1
+
+### 11 sept - Werkgroep + Deep-dive
+
+Mooie kleuren en gradients:
+
+### 10 sept - Deep-dive
+
+CSS: Kleur, gradients en patronen:
+
+### 9 sept - Werkgroep
+
+### 8 sept - Deep-dive
+
+Light & Dark Theme:
+
+### 7 sept - Werkgroep
+
+### Sprint 0 - Week 1
 
 ### 4 sept - Deep-dives
 
 Praktische CSS:
 
-CSS: fonts met kleur en effecten
+CSS: fonts met kleur en effecten:
 
 ### 2 sept - Deep-dives
 
