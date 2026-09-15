@@ -4,7 +4,11 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+## Sprint 1 - Week 2
 
+## Sprint 1 - Week 1
+
+## Sprint 0 - Week 1
 
 ### 4 sept - Deep-dives
 
