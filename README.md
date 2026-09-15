@@ -4,7 +4,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
-### Sprint 1 - Week 2
+###  - Sprint 1 - Week 2
 
 ### 18 sept - Werkgroep
 
@@ -18,7 +18,7 @@ CSS: Resonsive grid + grid-areas:
 
 ### 14 sept - Werkgroep
 
-### Sprint 1 - Week 1
+###  - Sprint 1 - Week 1
 
 ### 11 sept - Werkgroep + Deep-dive
 
@@ -36,7 +36,7 @@ Light & Dark Theme:
 
 ### 7 sept - Werkgroep
 
-### Sprint 0 - Week 1
+###  - Sprint 0 - Week 1
 
 ### 4 sept - Deep-dives
 
